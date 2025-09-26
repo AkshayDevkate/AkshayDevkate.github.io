@@ -11,35 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Research Software Quality, University of Potsdam, 2023 (Ongoing)
+* M.S. in Big Data and Business Analytics, FOM Hochschule Essen, 2019-2022
+* B.E. in Computer Science, SKNCOE (Pune University), 2015-2918
+* Diploma in Information Technology, SVCP (MSBTE), 2012-2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Wissenschaftlicher Mitarbeiter at University of Potsdam
+  * Skills 1
+  * Skills 2
+  * Skills 3
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Full Stack developer at GreenHomeNow.de
+  * Skills 1
+  * Skills 2
+  * Skills 3
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* iOS App Developer intern
+  * Skills 1
+  * Skills 2
+  * Skills 3
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
