@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Akshay Devkate Personal website"
 author_profile: true
 redirect_from: 
   - /about/
