@@ -1,0 +1,20 @@
+name: Update Medium list
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@akshaydevkate"
+          max_post_count: 5
+          readme_path: "./_pages/year-archive.html"   # adjust if path differs
+          template: '<li><a href="$url">$title</a></li>$newline'
