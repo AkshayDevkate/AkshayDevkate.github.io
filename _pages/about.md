@@ -5,9 +5,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
-
 # About Me
 
 **PhD candidate at the Software Engineering Group, University of Potsdam.**  
