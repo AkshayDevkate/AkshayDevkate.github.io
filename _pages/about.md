@@ -5,8 +5,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# About Me
-
 **PhD candidate at the Software Engineering Group, University of Potsdam.**  
 Currently conducting empirical analyses of software quality assurance practices in research software.  
 
